@@ -1,0 +1,6 @@
+This Visual Studio 2012 project shows how to interface with Salesforce.com web service APIs. This code corresponds to a demonstration highlighted on the Force.com Developer Wiki: http://wiki.developerforce.com/page/Consuming_Force.com_SOAP_and_REST_Web_Services_from_.NET_Applications
+
+* Authenticate SOAP and REST web service calls
+* Use the Enterprise API (SOAP)
+* Use the Partner API (SOAP)
+* Use the REST API
